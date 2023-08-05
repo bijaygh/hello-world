@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register to enroll in the DevOps Engineer Class 2023 "Batch4" in TechAxis</h1>
+    <h1>User Register to enroll in the DevOps Engineer Class 2023 "Batch4" in TechAxis</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      <br>
